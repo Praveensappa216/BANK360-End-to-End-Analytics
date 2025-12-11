@@ -4,9 +4,11 @@ End-to-end banking data analytics project using Python, SQL, SQLite, and Power B
 Power bi interactive dashboards 
 
 PAGE-1
+
 <img width="1376" height="729" alt="image" src="https://github.com/user-attachments/assets/b5f375e6-a82f-4278-b0b5-71224b99ceac" />
 
 PAGE-2
+
 <img width="1116" height="616" alt="image" src="https://github.com/user-attachments/assets/5d8fcf90-b9d2-4cd1-9148-b64289350f40" />
 
 PAGE-3
@@ -22,29 +24,22 @@ PAGE-5
 <img width="1123" height="633" alt="image" src="https://github.com/user-attachments/assets/f880a3ab-8669-44a3-a580-d9dd0a10f6f0" />
 
 
+
+
 📊 Tech Stack
+
 Programming & ETL
 
 Python
-
 Pandas
-
 NumPy
-
 Database
-
 SQLite
-
 SQL
-
 Dashboarding
-
 Microsoft Power BI
-
 Tools
-
 VS Code
-
 DB Browser for SQLite
 
 
