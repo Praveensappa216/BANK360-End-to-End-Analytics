@@ -31,16 +31,27 @@ PAGE-5
 Programming & ETL
 
 Python
+
 Pandas
+
 NumPy
+
 Database
+
 SQLite
+
 SQL
+
 Dashboarding
+
 Microsoft Power BI
+
 Tools
+
 VS Code
+
 DB Browser for SQLite
+
 
 
 
